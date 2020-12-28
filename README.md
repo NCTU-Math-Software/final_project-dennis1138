@@ -1,3 +1,4 @@
-# final_project-dennis1138
-final_project-dennis1138 created by GitHub Classroom
-想做project 4.5.16.17
+# Project 5-2 : 任意給定平面上三點, 判斷外心是否在三角形內.
+
+##input
+' 在螢幕上用滑鼠點三個點 '
