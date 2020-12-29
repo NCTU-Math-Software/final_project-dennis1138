@@ -52,9 +52,11 @@
 
 ```
 >>畫出三角形
+
 gx=[X;X(1)];
 gy=[Y;Y(1)];
 plot(gx,gy,'b');  
+
 
 >>畫出外接圓 
          
@@ -62,7 +64,8 @@ thea=0:0.01:2*pi;
 x=x0+r*cos(thea);
 y=y0+r*sin(thea);
 plot(x,y,'-',x0,y0,'b');
-         
+  
+  
 >>畫出外心 
          
 plot(x0,y0,'.');  
